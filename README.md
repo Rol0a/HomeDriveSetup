@@ -1,5 +1,24 @@
 # HomeServerUpload
 
+<p align="center">
+
+![C](https://img.shields.io/badge/C-Systems_Programming-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Backend-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Server-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![CMake](https://img.shields.io/badge/CMake-Build_System-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Metadata_DB-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-Object_Storage-C72E49?style=for-the-badge&logo=minio&logoColor=white)
+![OpenSSL](https://img.shields.io/badge/OpenSSL-HMAC--SHA256-721412?style=for-the-badge&logo=openssl&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Infrastructure-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![Network](https://img.shields.io/badge/Network-LAN_Only-success?style=for-the-badge)
+![S3](https://img.shields.io/badge/API-S3_Compatible-orange?style=for-the-badge&logo=amazons3&logoColor=white)
+![Status](https://img.shields.io/badge/Status-In_Development-yellow?style=for-the-badge)
+![License](https://img.shields.io/badge/License-TBD-lightgrey?style=for-the-badge)
+
+</p>
+
 A self-hosted, LAN-only file storage service — think "Google Drive for your home network" — built from scratch in **C and C++** as a hands-on systems programming project.
 
 You get a fast, private drop box for your own devices: pick a file, get a pre-signed upload link, push bytes straight to object storage, and see it show up instantly in a Drive-like web UI. No cloud, no accounts outside your house, no bill.
