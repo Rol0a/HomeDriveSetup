@@ -14,7 +14,7 @@
 ![Development](https://img.shields.io/badge/Status-In_Development-yellow?style=flat-square)
 
 </p>
-A self-hosted, LAN-only file storage service — think "Google Drive for your home network" — built from scratch in **C and C++** as a hands-on systems programming project.
+A self-hosted, LAN-only file storage service, think "Google Drive for your home network", built from scratch in **C and C++** as a hands-on systems programming project.
 
 You get a fast, private drop box for your own devices: pick a file, get a pre-signed upload link, push bytes straight to object storage, and see it show up instantly in a Drive-like web UI. No cloud, no accounts outside your house, no bill.
 
@@ -22,7 +22,7 @@ You get a fast, private drop box for your own devices: pick a file, get a pre-si
 
 ## Why this project exists
 
-This isn't just a file server — it's a vehicle for learning C and C++ by building something real. Every subsystem below doubles as a lesson:
+The project intends to improve upon basic C and C++ coding skills. Every subsystem below doubles as a lesson:
 
 | Building this...                          | Teaches you...                                             |
 |--------------------------------------------|--------------------------------------------------------------|
